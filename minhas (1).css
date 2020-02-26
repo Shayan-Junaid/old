@@ -1,0 +1,281 @@
+.bas{
+    background-color: yellow;
+}
+
+
+
+#a{
+    background-color: tomato;
+}
+#b{
+    background-color: lightblue;
+}
+#c{
+    background-color: mediumorchid;
+}
+#d{
+    background-color: dodgerblue;
+    
+}
+
+
+#e{
+    background-color: sienna;
+}
+#f{
+    background-color: lightcoral;
+}
+#g{
+    background-color: lightcoral;
+}
+#h{
+    background-color: lightcoral;
+}
+#i{
+    background-color: peru;
+}
+#j{
+    background-color: lightskyblue;
+}
+.a{
+    background-color: khaki;
+}
+#k{
+    background-color: mediumorchid;
+    
+}
+#l{
+    background-color: dodgerblue;
+    
+    
+    
+}   
+#m{
+   background-color:aquamarine ;
+    
+}
+
+#n{
+    background-color: sienna;
+}
+#o{
+    background-color: lightcoral;
+}
+#p{
+    background-color: lightcoral;
+}
+#q{
+    background-color: peru;
+}
+#r{
+    background-color:lightskyblue ;
+}
+#s{
+   background-color: mediumorchid
+}
+#t{
+    background-color:  royalblue;
+}
+#u{
+   background-color:aquamarine ;
+}
+#v{
+    background-color: sienna;
+    
+}
+#w{
+    background-color: sienna;
+
+}
+#x{
+    background-color: lightcoral;
+    
+
+}
+#y{
+    background-color: peru;
+ 
+}
+#z{
+    background-color:lightskyblue ;
+     
+}
+#rb{
+   background-color: mediumorchid
+
+}
+#sr{
+    background-color:  royalblue;
+
+}
+#ln{
+    background-color:aquamarine ;
+
+}
+#sn{
+    background-color:aquamarine ;
+
+}
+#sb{
+    background-color: sienna;
+ 
+}
+#te{
+    
+    background-color: sienna;
+
+}
+#l{
+    background-color: peru;
+
+}
+#xe{
+    background-color:lightskyblue ;
+
+}
+#cs{
+    background-color: mediumorchid
+
+}
+#ba{
+    background-color:  royalblue;
+
+}
+#aa{
+background-color: mistyrose;
+}
+.ab{
+background-color: mistyrose;
+
+}
+#fr{
+    background-color: mediumorchid
+
+}
+#ra{
+    background-color:  royalblue;
+
+}
+#aq{
+background-color: mistyrose;
+
+}
+#ti{
+    background-color:aquamarine ;
+
+}
+#pb{
+    background-color:aquamarine ;
+
+}
+#bi{
+    background-color:aquamarine ;
+
+}
+#po{
+    background-color: sienna;
+
+}
+#at{
+    background-color: peru;
+    
+
+}
+#rn{
+    background-color: lightskyblue;
+
+}
+.ac{
+    background-color: oldlace;
+}
+#zx{
+    background-color: cadetblue;
+}
+#yz{
+    background-color: cadetblue;
+
+}
+h1{
+ text-shadow: saddlebrown;
+ text-align:center;
+ background-color: yellow;
+}
+
+
+p:first-line{
+color: cornsilk
+}
+p:hover{
+    color: deepskyblue;
+
+}
+input:focus{
+    color: mediumblue;
+}
+button:active{
+    color: violet;
+}
+
+{
+    background-color: orangered;
+    max-width:300px ;
+    max-width:100 ;
+}
+th{
+    background-color: violet;
+    min-width:40px; 
+    min-height: 10px; ;
+}
+@font-face{
+    font-family:fantasy;
+    src:url("ajkminhas.zip" )
+}
+h1{
+    font-size: large;
+}
+div>h2{
+    text-align: right ;
+}
+h5{
+    font-family: fantasy;
+    background-color: white;
+}
+li{
+    display: inline;
+    padding: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    cursor:pointer;
+
+    background-color:rgb(45, 210, 30);
+    color: ghostwhite;
+}
+li:hover{
+    background-color: slateblue;color: snow;
+}
+ul{
+    background-origin: sizing 50%; ;
+    border-top: 5px solid crimson ;
+    border-bottom: 5px solid crimson ;
+    padding: 10px;
+    margin-left:auto ;
+    margin-right: auto;
+    text-align: center;
+}
+div>p{
+    text-align: center;
+    width: 60%;
+    background-color: darkgreen;
+    color: blue;
+    border:12px ;
+    border-top :10px solid crimson; 
+    border-right :10px solid rgb(50, 20, 220);
+    border-bottom :10px solid crimson;
+    border-left :10px solid crimson;
+    padding:12px ;
+    /* text-decoration: underline 2px; */
+
+}
+
+
